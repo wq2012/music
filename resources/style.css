@@ -1,0 +1,65 @@
+body {
+  background-image: url(../pictures/music-background.jpg);
+}
+
+.style1 {
+  color: #66FF00
+}
+
+.style2 {
+  font-family: "Courier New", Courier, mono;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.style3 {
+  font-family: "Courier New", Courier, mono;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.style5 {
+  color: #99CCFF;
+  font-size: 18px;
+}
+
+.style6 {
+  font-size: 18px
+}
+
+.style12 {
+  color: #99CCFF;
+  font-size: 18px;
+  font-family: 'Noto Sans SC Sliced', sans-serif;
+}
+
+.style14 {
+  font-size: 18px;
+  color: #99CCFF;
+}
+
+.style15 {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #FFFF00;
+}
+
+a {
+  color: #FFFFFF;
+  font-family: 'Noto Sans SC Sliced', sans-serif;
+}
+
+a:visited {
+  color: #00FFFF;
+  font-family: 'Noto Sans SC Sliced', sans-serif;
+}
+
+a:active {
+  color: #00FFFF;
+  font-family: 'Noto Sans SC Sliced', sans-serif;
+}
+
+a:hover {
+  color: #00FFFF;
+  font-family: 'Noto Sans SC Sliced', sans-serif;
+}
