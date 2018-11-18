@@ -21,10 +21,12 @@ body {
 .style5 {
   color: #99CCFF;
   font-size: 18px;
+  font-family: 'Noto Sans SC Sliced', sans-serif;
 }
 
 .style6 {
-  font-size: 18px
+  font-size: 18px;
+  font-family: 'Noto Sans SC Sliced', sans-serif;
 }
 
 .style12 {
